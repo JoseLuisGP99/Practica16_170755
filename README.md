@@ -1,4 +1,4 @@
-# DMI_Practica16_200327
+# Practica16_170755
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -8,7 +8,7 @@
 
 
 ## Ingeniería en Desarrollo y Gestión de Software
-## Eliel Diaz Galindo
+## Jose Luis Galindo Picazo
 ## 10A
 ### Desarrollo Móvil Integral
 
@@ -28,7 +28,7 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Practica 15: Implementacion de rutas y middlewares para el jugador |
-| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, pero ¿Que es un CRUD? Un CRUD es el acrónimo de "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME. |
+| Descripción  | Esta aplicación se a creado para el uso de la api del videojuego del proyecto final, se realiza un crud con las acciones principales, ue son "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME. |
 |  Fecha de Carga | 10/11/23  |
 
 &nbsp;
@@ -42,7 +42,9 @@
 <br>
 <br>
 
-[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
+[![a5.png](https://i.postimg.cc/C5Vb0HD0/a5.png)](https://postimg.cc/VrDJBtDZ)
+[![a.png](https://i.postimg.cc/YSW4SLtC/a.png)](https://postimg.cc/FfhFWRfM)
+
 
 
 
