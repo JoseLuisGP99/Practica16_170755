@@ -14,10 +14,8 @@
 
 
 ## Capturas de Pantalla
-<p align="center">
-  <img src="https://github.com/Eliel-DG/DMI_PRACTICA15_200327/blob/main/cap1.png" width="400" alt="Captura de Pantalla 1">
-  <img src="https://github.com/Eliel-DG/DMI_PRACTICA15_200327/blob/main/cap2.png" width="400" alt="Captura de Pantalla 2">
-</p>
+[![a5.png](https://i.postimg.cc/C5Vb0HD0/a5.png)](https://postimg.cc/VrDJBtDZ)
+[![a.png](https://i.postimg.cc/YSW4SLtC/a.png)](https://postimg.cc/FfhFWRfM)
 
 
 
@@ -42,8 +40,6 @@
 <br>
 <br>
 
-[![a5.png](https://i.postimg.cc/C5Vb0HD0/a5.png)](https://postimg.cc/VrDJBtDZ)
-[![a.png](https://i.postimg.cc/YSW4SLtC/a.png)](https://postimg.cc/FfhFWRfM)
 
 
 
